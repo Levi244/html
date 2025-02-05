@@ -1,0 +1,11 @@
+body {
+    background-image: url('IMG/download.jfif'); /* Caminho da imagem */
+    background-size: cover; /* Faz a imagem cobrir todo o espaço */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição */
+    height: 100vh; /* Ocupa 100% da altura da tela */
+    margin: 0; /* Remove margens padrão */
+}
+div{
+    text-align: center;
+}
