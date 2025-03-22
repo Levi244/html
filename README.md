@@ -38,7 +38,7 @@
     <a href="https:\\google.com"> google </a>
     <!-- quebra de linha -->
     </br>
-    
+
     <!-- Botões para click's -->
     <button> Botão 1 </button>
     <button> Botão 2 </button>
@@ -74,10 +74,30 @@
         </tbody>
     </table>
     <!-- Paragrafo -->
-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officia distinctio et? Eligendi, quam. Quam soluta sit omnis? Nostrum harum mollitia, laudantium vero rem soluta odit tempore provident dolores fuga.</p>
-
+    <p>Lorem, ipsum dolor <a href="https:\\google.com">sit</a> amet consectetur adipisicing elit. Placeat officia
+        distinctio et? Eligendi, quam. Quam soluta sit omnis? Nostrum harum mollitia, laudantium vero rem soluta odit
+        tempore provident dolores fuga.</p>
     <!-- Imagem -->
-    <img src="" alt="">
+    <a href="https:\\google.com">
+        <img src="img/undraw_car-repair_wski.png" alt="">
+    </a>
+
+    <!-- Formulario -->
+
+    <form>
+        <!-- Titulo do Input-->
+        <label for="Primeiro-nome">Nome: </label>
+        <input type="text" placeholder="Primeiro nome" id="Primeiro-nome"/>
+    </br>
+        <label for="Segundo-nome">Segundo Nome: </label>
+        <input type="text" placeholder="Segundo nome" id="Segundo-nome"/>
+    </br>
+        <label for="email">E-mail: </label>
+        <input type="email" name="email" placeholder="Exemplo@texte.com" id="email">
+    </br>
+        <input type="submit" name="" id="">
+    </form>
+
 </body>
 
 
