@@ -56,11 +56,28 @@
                 <th>e-mail</th>
             </tr>
         </thead>
-
-
+        <!-- Conteudo da tabela -->
+        <tbody>
+            <!-- Aqui fica o loop -->
+            <tr>
+                <td>0</td>
+                <td>Francisco Wallison</td>
+                <td>85 9 5000000</td>
+                <td>franciscowallison@gmail.com</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Levi Ribeiro</td>
+                <td>85 9 96833118</td>
+                <td>levirs999@gmail.com</td>
+            </tr>
+        </tbody>
     </table>
+    <!-- Paragrafo -->
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat officia distinctio et? Eligendi, quam. Quam soluta sit omnis? Nostrum harum mollitia, laudantium vero rem soluta odit tempore provident dolores fuga.</p>
 
-
+    <!-- Imagem -->
+    <img src="" alt="">
 </body>
 
 
